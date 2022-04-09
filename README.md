@@ -9,9 +9,10 @@
 
 <br />
 
-An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+A passionate aspiring Full Stack Developer proficient in coding and developing web applications using the latest technical knowledge. <br>
+I am currently learning JavaScript technologies across the MERN stack. Solving Data Structures and Algorithm problems bring immense happiness and joy to me. <br>
+I am truly passionate about learning about new and emerging trends in the IT sector to enhance my knowledge, I can learn 24/7 and 365 days a year, and I always try to find something more to learn.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
