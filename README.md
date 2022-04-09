@@ -56,7 +56,7 @@ I am truly passionate about learning about new and emerging trends in the IT sec
 ## Let's get connected:
 
 <p>
-    <a href="https://www.linkedin.com/in/nitesh-goshwami-88629a167/"><img alt="Linkedin"
+    <a href="https://www.linkedin.com/in/chauhanupendra/"><img alt="Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
             height="35px" /></a>
     <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
