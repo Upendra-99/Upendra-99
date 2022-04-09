@@ -1,4 +1,4 @@
-<p> <b> Hello, </b> I am Upendra Kumar Chauhan ! <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e4712004af52f9bf7e30096d0a0f5c9153df93a1ee9&rid=giphy.gif&ct=s" width="230">
+<p> <b> Hello👋, </b> I am Upendra Kumar Chauhan ! <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e4712004af52f9bf7e30096d0a0f5c9153df93a1ee9&rid=giphy.gif&ct=s" width="230">
 </p>
 
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
