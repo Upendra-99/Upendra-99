@@ -1,7 +1,9 @@
-<p> <b> Hello, </b> I am Upendra Kumar Chauhan ! </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<a href="https://github.com/durgeshrai633/readme-typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
+<p> <b> Hello, </b> I am Upendra Kumar Chauhan ! <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e4712004af52f9bf7e30096d0a0f5c9153df93a1ee9&rid=giphy.gif&ct=s" width="230">
+</p>
+
+<a href="https://github.com/durgeshrai633/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50">
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Upendra-99.Upendra-99)
 
@@ -11,10 +13,6 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-
-- 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
-✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=goswami.nitesh5794@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
-- 💬 ask me about anything, i am happy to help;
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🛠️ Technologies and Tools I use:
@@ -72,13 +70,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     
 </p>
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-
+  -->
 
 📈 my github stats
 
