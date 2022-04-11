@@ -59,12 +59,12 @@ I am truly passionate about learning about new and emerging trends in the IT sec
     <a href="https://www.linkedin.com/in/chauhanupendra/"><img alt="Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
             height="35px" /></a>
-    <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
+<!--    <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=http://left&link=https://twitter.com/Niteshkumargos1"
             height="35px" /></a>
     <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
             src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
-            height="35px" /></a>
+            height="35px" /></a> --!>
         <a href="goswami.nitesh5794@gmail.com"><img alt="Gmail"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
             height="35px" width = "130px"/></a>
