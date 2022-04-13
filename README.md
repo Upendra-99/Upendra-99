@@ -21,7 +21,7 @@ I am truly passionate about learning about new and emerging trends in the IT sec
 Looking forward to starting my career as a software developer and working on some of the exciting and challenging projects.
 </p>
 
-<img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="310" />
+<img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 
 <br><br>
 
