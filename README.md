@@ -65,8 +65,8 @@ Looking forward to starting my career as a software developer and working on som
      
 ## 📈 my github stats
 <p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Goshwami&theme=react&show_icons=true&include_all_commits=true" />
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Goshwami&theme=react&layout=compact" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Upendra-99&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra-99&theme=react&layout=compact" />
  </p>
 
 ## Let's Connect 
