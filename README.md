@@ -1,4 +1,4 @@
-<h3>Hello Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I am Upendra Kumar Chauhan !</h3>
+<h3>Hello Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,<strong> I am Upendra Kumar Chauhan ! </strong></h3>
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&width=400&height=50">
 </a>
