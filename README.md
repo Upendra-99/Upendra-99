@@ -61,11 +61,12 @@ Looking forward to starting my career as a software developer and working on som
         height="25px" />
 </p>
 
-<br>
+<br><br>
      
 ## 📈 my github stats
-<span width ="45%">![prashant's github stats](https://github-readme-stats.vercel.app/api?username=Upendra-99&show_icons=true&theme=tokyonight)</span>
-<span width ="45%">![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=Upendra-99&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)</span>
+<span width ="40%">![prashant's github stats](https://github-readme-stats.vercel.app/api?username=Upendra-99&show_icons=true&theme=tokyonight)</span>
+<span width ="40%">![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=Upendra-99&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)</span>
+
 <p align="center"> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra-99&theme=react&layout=compact" />
 </p> 
