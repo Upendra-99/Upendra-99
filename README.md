@@ -23,7 +23,7 @@ Looking forward to starting my career as a software developer and working on som
 
 <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 
-<br><br>
+<br>
 
 ## 🛠️ Technologies and Tools I use:
 <p>
@@ -64,12 +64,10 @@ Looking forward to starting my career as a software developer and working on som
 <br><br>
      
 ## 📈 my github stats
-<span width ="40%"> ![prashant's github stats](https://github-readme-stats.vercel.app/api?username=Upendra-99&show_icons=true&theme=tokyonight)</span>
-<span float="right" width ="40%"> ![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=Upendra-99&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)</span>
-
 <p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra-99&theme=react&layout=compact" />
-</p> 
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Goshwami&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Goshwami&theme=react&layout=compact" />
+ </p>
 
 ## Let's Connect 
 <p align="center">  
