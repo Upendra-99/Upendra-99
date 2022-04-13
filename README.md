@@ -1,16 +1,24 @@
-<p> <b> Hello👋, </b> I am Upendra Kumar Chauhan ! <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e4712004af52f9bf7e30096d0a0f5c9153df93a1ee9&rid=giphy.gif&ct=s" width="230">
-</p>
+<h3>Hello Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I am Upendra Kumar Chauhan !</h3>
 
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&width=400&height=50">
 </a>
 
+<!-- Visitors Counts !-->
 ![](https://visitor-badge.glitch.me/badge?page_id=Upendra-99.Upendra-99)
+<hr>
+
+<h3>📖 About Me</h3>
+ 
+<p>
+<!-- Gif Image !-->
+<img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e4712004af52f9bf7e30096d0a0f5c9153df93a1ee9&rid=giphy.gif&ct=s" width="230">
+</p>
 
 <br />
 
-A passionate aspiring Full Stack Developer proficient in coding and developing web applications using the latest technical knowledge. <br>
-I am currently learning JavaScript technologies across the MERN stack. Solving Data Structures and Algorithm problems bring immense happiness and joy to me. <br>
+A passionate aspiring Full Stack Developer proficient in coding and developing web applications using the latest technical knowledge. <br><br>
+I am currently learning JavaScript technologies across the MERN stack. Solving Data Structures and Algorithm problems bring immense happiness and joy to me. <br><br>
 I am truly passionate about learning about new and emerging trends in the IT sector to enhance my knowledge, I can learn 24/7 and 365 days a year, and I always try to find something more to learn.
 
 
@@ -80,9 +88,16 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   -->
 
 📈 my github stats
+    
+## My Contributions
+<img src="https://activity-graph.herokuapp.com/graph?username=Upendra-99&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+    
+<!-- ![Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra-99&theme=tokyonight) -->
+    
+<span align="center">![prashant's github stats](https://github-readme-stats.vercel.app/api?username=Upendra-99&show_icons=true&theme=tokyonight)</span>
+<span align="center">![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=Upendra-99&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)</span>
 
 <p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Upendra-99&theme=react&show_icons=true&include_all_commits=true" />
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra-99&theme=react&layout=compact" />
  </p>
 
