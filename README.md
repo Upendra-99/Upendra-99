@@ -1,5 +1,4 @@
 <h3>Hello Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I am Upendra Kumar Chauhan !</h3>
-
 <a href="https://github.com/durgeshrai633/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&width=400&height=50">
 </a>
@@ -22,7 +21,7 @@ I am currently learning JavaScript technologies across the MERN stack. Solving D
 I am truly passionate about learning about new and emerging trends in the IT sector to enhance my knowledge, I can learn 24/7 and 365 days a year, and I always try to find something more to learn.
 
 
- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -76,30 +75,17 @@ I am truly passionate about learning about new and emerging trends in the IT sec
         <a href="chauhanup47@gmail.com"><img alt="Gmail"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=chauhanup47@gmail.com"
             height="35px" width = "130px"/></a>
-    
 </p>
-
-<!--END_SECTION:waka
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-  -->
-
-📈 my github stats
-    
-## My Contributions
-<img src="https://activity-graph.herokuapp.com/graph?username=Upendra-99&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
-    
-<!-- ![Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra-99&theme=tokyonight) -->
-    
+     
+## 📈 my github stats
 <span align="center">![prashant's github stats](https://github-readme-stats.vercel.app/api?username=Upendra-99&show_icons=true&theme=tokyonight)</span>
 <span align="center">![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=Upendra-99&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)</span>
-
 <p align="center"> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra-99&theme=react&layout=compact" />
- </p>
+</p> 
 
 
-
+<!-- ## My Contributions
+<img src="https://activity-graph.herokuapp.com/graph?username=Upendra-99&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true" width="1000" height="300"><br><br>
+ -->
+ <!-- ![Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra-99&theme=tokyonight) -->
