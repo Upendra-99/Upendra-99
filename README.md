@@ -14,17 +14,18 @@
 <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e4712004af52f9bf7e30096d0a0f5c9153df93a1ee9&rid=giphy.gif&ct=s" width="230">
 </p>
 
-<br />
+<br>
 
-<span>
-   An ambitious and detail-oriented aspiring Full Stack Developer with a BTech in Computer Science, adept at JavaScript technologies across MERN Stack and solving Data    Structures and Algorithm problems, is a curious learner and excellent team player. <br><br>
-   Strongly interested in obtaining a Software Developer position to leverage the goals and ambition of the organization.
-</span>
+<p> An ambitious and detail-oriented aspiring Full Stack Developer with a BTech in Computer Science, <br> adept at JavaScript technologies across MERN Stack and solving    Data Structures and Algorithm problems, <br> is a curious learner and excellent team player. <br><br>
+I am truly passionate about learning about new and emerging trends in the IT sector to enhance my knowledge <br><br>
+Looking forward to starting my career as a software developer and working on some of the exciting and challenging projects.
+</p>
 
- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+
+<br><br><br><br>
 
 ## 🛠️ Technologies and Tools I use:
-
 <p>
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
