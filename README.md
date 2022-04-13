@@ -21,9 +21,9 @@ I am truly passionate about learning about new and emerging trends in the IT sec
 Looking forward to starting my career as a software developer and working on some of the exciting and challenging projects.
 </p>
 
-<img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="310" />
 
-<br><br><br><br>
+<br><br>
 
 ## 🛠️ Technologies and Tools I use:
 <p>
@@ -60,6 +60,8 @@ Looking forward to starting my career as a software developer and working on som
         src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
         height="25px" />
 </p>
+
+<br><br>
      
 ## 📈 my github stats
 <span align="center">![prashant's github stats](https://github-readme-stats.vercel.app/api?username=Upendra-99&show_icons=true&theme=tokyonight)</span>
