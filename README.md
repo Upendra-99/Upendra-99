@@ -16,7 +16,7 @@
 
 <br>
 
-<p> An ambitious and detail-oriented aspiring Full Stack Developer with a BTech in Computer Science, <br> adept at JavaScript technologies across MERN Stack and solving    Data Structures and Algorithm problems, <br> is a curious learner and excellent team player. <br><br>
+<p> An ambitious and detail-oriented aspiring Full Stack Developer with a BTech in Computer Science, adept at JavaScript technologies across MERN Stack and solving    Data Structures and Algorithm problems, <br> is a curious learner and excellent team player. <br><br>
 I am truly passionate about learning about new and emerging trends in the IT sector to enhance my knowledge <br><br>
 Looking forward to starting my career as a software developer and working on some of the exciting and challenging projects.
 </p>
