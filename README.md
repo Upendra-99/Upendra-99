@@ -16,10 +16,10 @@
 
 <br />
 
-A passionate aspiring Full Stack Developer proficient in coding and developing web applications using the latest technical knowledge. <br><br>
-I am currently learning JavaScript technologies across the MERN stack. Solving Data Structures and Algorithm problems bring immense happiness and joy to me. <br><br>
-I am truly passionate about learning about new and emerging trends in the IT sector to enhance my knowledge, I can learn 24/7 and 365 days a year, and I always try to find something more to learn.
-
+<span>
+   An ambitious and detail-oriented aspiring Full Stack Developer with a BTech in Computer Science, adept at JavaScript technologies across MERN Stack and solving Data    Structures and Algorithm problems, is a curious learner and excellent team player. <br><br>
+   Strongly interested in obtaining a Software Developer position to leverage the goals and ambition of the organization.
+</span>
 
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
@@ -59,23 +59,6 @@ I am truly passionate about learning about new and emerging trends in the IT sec
         src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
         height="25px" />
 </p>
-
-## Let's get connected:
-
-<p>
-    <a href="https://www.linkedin.com/in/chauhanupendra/"><img alt="Linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
-            height="35px" /></a>
-<!--    <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
-            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=http://left&link=https://twitter.com/Niteshkumargos1"
-            height="35px" /></a>
-    <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
-            src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
-            height="35px" /></a> --!>
-        <a href="chauhanup47@gmail.com"><img alt="Gmail"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=chauhanup47@gmail.com"
-            height="35px" width = "130px"/></a>
-</p>
      
 ## 📈 my github stats
 <span align="center">![prashant's github stats](https://github-readme-stats.vercel.app/api?username=Upendra-99&show_icons=true&theme=tokyonight)</span>
@@ -83,6 +66,15 @@ I am truly passionate about learning about new and emerging trends in the IT sec
 <p align="center"> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra-99&theme=react&layout=compact" />
 </p> 
+
+## Let's Connect 
+<p align="center">  
+<a href="https://vercel.com/upendra-99/portfolio"><img src="https://img.shields.io/badge/Portfolio-blue" alt="Portfolio" height="30px" /></a>&nbsp;
+<a href="mailto:chauhanup47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/chauhanupendra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;  
+<a href="https://leetcode.com/Upendra_Chauhan/"><img src="https://img.shields.io/badge/Leetcode-blue" alt="Leetcode" height="30px" /></a>&nbsp;
+<!-- <a href="https://leetcode.com/Upendra_Chauhan/"><img src="https://img.shields.io/badge/twitter-UC-blue" alt="Twitter" height="30px" /></a>&nbsp; -->
+</p>
 
 
 <!-- ## My Contributions
