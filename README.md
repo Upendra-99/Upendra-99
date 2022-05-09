@@ -74,7 +74,7 @@ Looking forward to starting my career as a software developer and working on som
 <a href="https://upendraportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue" alt="Portfolio" height="30px" /></a>&nbsp;
 <a href="mailto:chauhanup47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/chauhanupendra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;  
-<a href="https://leetcode.com/Upendra_Chauhan/"><img src="https://img.shields.io/badge/Leetcode-blue" alt="Leetcode" height="30px" /></a>&nbsp;
+<!-- <a href="https://leetcode.com/Upendra_Chauhan/"><img src="https://img.shields.io/badge/Leetcode-blue" alt="Leetcode" height="30px" /></a>&nbsp; -->
 <!-- <a href="https://leetcode.com/Upendra_Chauhan/"><img src="https://img.shields.io/badge/twitter-UC-blue" alt="Twitter" height="30px" /></a>&nbsp; -->
 </p>
 
